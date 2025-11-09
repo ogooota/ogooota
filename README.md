@@ -1,4 +1,4 @@
-# 💾 Terminal 💾
+## 💾 Terminal 💾
 ```
 ┌───────────────────────────────────────────────┐
 │  ogooota@o-gooota:~$ run portfolio.exe        │
@@ -23,4 +23,5 @@ Git | 🐧 Linux 🐧
 ```
 Email: ogota72@gmail.com
 LinkedIn: https://www.linkedin.com/in/andrea-neto-0aa370376/
+HackerRank: https://www.hackerrank.com/profile/andreaneto263
 ```
