@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**ogooota/ogooota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💾 Terminal 💾
+```
+┌───────────────────────────────────────────────┐
+│  ogooota@o-gooota:~$ run portfolio.exe        │
+│                                               │
+│  Initializing developer profile...            │
+│  Loading Java backend modules... [OK]         │
+│  Fixing undefined behaviour... [OK]           │
+│  Booting system... ██████████ 100%            │
+│                                               │
+│  >> Welcome to Dev Environment <<             │
+│                                               │
+│  Version: 1.0.1                               │
+│  Year: 20XX                                   │
+└───────────────────────────────────────────────┘
+```
+## ⚙️ Tech stack
+```
+Java ☕ | C / C++ 🌐 | Python 🐍
+Git | 🐧 Linux 🐧  
+```
+## 📡 Contacts
+```
+Email: ogota72@gmail.com
+LinkedIn: https://www.linkedin.com/in/andrea-neto-0aa370376/
+```
