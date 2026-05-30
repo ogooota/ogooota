@@ -1,25 +1,16 @@
-## 💾 Terminal 💾
 ```
-┌───────────────────────────────────────────────┐
-│  ogooota@o-gooota:~$ run portfolio.exe        │
-│                                               │
-│  Initializing developer profile...            │
-│  Loading Java backend modules... [OK]         │
-│  Fixing undefined behaviour... [OK]           │
-│  Booting system... ██████████ 100%            │
-│                                               │
-│  >> Welcome to Dev Environment <<             │
-│                                               │
-│  Version: 1.0.1                               │
-│  Year: 20XX                                   │
-└───────────────────────────────────────────────┘
+Why would you ever OO?
+...
 ```
-## ⚙️ Tech stack
+
+##  Tech stack
 ```
-Java ☕ | C / C++ 🌐 | Python 🐍
-Git | 🐧 Linux 🐧  
+C | Assembly (ARM | x86)
+Microcontrollers: STM32 | Arduino | ESP32
+Java | Python 
+Git | Linux 
 ```
-## 📡 Contacts
+##  Contacts
 ```
 Email: ogota72@gmail.com
 LinkedIn: https://www.linkedin.com/in/andrea-neto-0aa370376/
